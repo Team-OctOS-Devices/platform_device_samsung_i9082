@@ -2,7 +2,7 @@
 PRODUCT_RELEASE_NAME := GalaxyGrandDuos
 
 # Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_phone.mk)
+$(call inherit-product, vendor/oct/config/common_phone.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/samsung/i9082/device_i9082.mk)
