@@ -16,5 +16,11 @@
     "repository": "proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
     "revision": "cm-11.0"
+  },
+    {
+   "remote": "ok",
+    "repository": "platform_kernel_samsung_i9082",
+    "target_path": "kernel/samsung/i9082",
+    "revision": "WIP"
   }
 ]
