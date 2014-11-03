@@ -21,6 +21,6 @@
    "remote": "ok",
     "repository": "platform_kernel_samsung_i9082",
     "target_path": "kernel/samsung/i9082",
-    "revision": "WIP"
+    "revision": "kk-4.4"
   }
 ]
